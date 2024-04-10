@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Jaimevix
-- 👀 I’m interested in progamming
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on things that i am learning
+- 👋 Hi, I’m @Jaime Periard Tasaico
 - 📫 How to reach me jaimeperiardtasaico@gmail.com
 
 <!---
